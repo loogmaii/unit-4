@@ -8,6 +8,8 @@
 
 The problem addressed by the "Our Duty" CAS project is the lack of a centralized source of information about internship and volunteer opportunities for ISAK students. This lack of a centralized source of information makes it difficult for students to find relevant opportunities, as information is scattered across various platforms and sources. As a result, students may miss out on valuable experiences that could benefit their personal and professional growth. 
 
+## Proposed Solution
+
 ## Rationale for Proposed Solution
 
 The proposed solution of creating a centralized resource for internship and volunteer opportunities for ISAK students addresses the problem of scattered information, streamlining the process of finding relevant opportunities and increasing the likelihood of students participating in such experiences. By providing a convenient and accessible resource, the project aims to facilitate personal and professional growth among ISAK students through hands-on learning experiences.
