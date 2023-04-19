@@ -20,7 +20,16 @@ The proposed solution of creating a centralized resource for internship and volu
 
 # Criterion B: Design Overview
 
-## Record of task
+## Record of tasks
+
+| Task No | Planned Action | Planned Outcome | Design cycle | Time Estimate | Completion date | Criterion |
+|---------|----------------|-----------------|--------------|---------------|-----------------|:---------:|
+|         |                |                 |              |               |                 |           |
+|         |                |                 |              |               |                 |           |
+|         |                |                 |              |               |                 |           |
+|         |                |                 |              |               |                 |           |
+|         |                |                 |              |               |                 |           |
+|         |                |                 |              |               |                 |           |
 
 ## System diagram
 
