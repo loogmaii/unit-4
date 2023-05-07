@@ -1,8 +1,6 @@
-# Our Duty Network
+# Pet social media
 
-![DSC03774](https://user-images.githubusercontent.com/111941936/234452360-8cd4ee4e-e6d6-4f98-8177-d4a4ee4cb3ca.jpg)
-
-<sub> ISAK Students by Loogmai Buree
+! https://64.media.tumblr.com/aec33e8d7f9500436b0b1c928aa629cc/tumblr_ocjhd4RpHz1ra6p52o1_540.gifv
 
 # Criteria A: Planning
 
