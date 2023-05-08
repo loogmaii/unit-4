@@ -8,8 +8,8 @@
 
 ## Problem Definition
  
-Pet owners are currently struggling to find a suitable platform to connect with other animal owners, which results in a lack of socialization opportunities for their pets. Additionally, pet owners find it challenging to provide detailed information about their pets to potential playmates or mates, share stories about their pets, and share them with others. Furthermore, there is no central location for pet owners to view posts made by other pet owners, and they lack a way to express support for the posts shared by other pet owners. This time-consuming and limited process of finding a community can be frustrating for them.
-
+Client X is one of the pet owners that is currently facing difficulties in finding a suitable platform to connect their pets with other animal owners. This lack of a centralized platform results in a limited opportunity for pets to socialize, and for owners to share advice, recommendations, stories and even find potential playmates or mates for their pets. Moreover, the current process of finding a community is time-consuming and often frustrating due to the lack of a single platform for pet owners to view posts made by other pet owners, express support for the posts shared by other pet owners, and provide detailed information about their pets to potential playmates or mates.
+ 
 ## Design Statement
 
 I will design and develop a social media platform for pets. This platform will allow pet owners to create profiles for their pets, share photos and videos, and connect with other pet owners. The platform will be developed using HTML, Bootstrap CSS, Python, SQLite, and the Flask framework. It will take approximately 4 weeks to develop and will be evaluated based on the given criteria.
@@ -27,11 +27,23 @@ I have selected SQLite as the platform's database since it is open source and r
 ## Success criteria
 
 1. The website will incorporate a secure registration and login system.
+   
+   issue tackled: ""
 2. The platform will provide a profile creation feature for pets, enabling clients to add details such as breed, name, and a brief overview of their pet.
+   
+   issue tackled: ""
 3. The user-friendly interface will allow clients to create posts about their pets, complete with an option to add images, descriptions, and dates.
+   
+   issue tackled: ""
 4. The website will give the client access to view posts made by other pet owners.
+   
+   issue tackled: ""
 5. The platform will offer a 'like' feature, allowing clients to express support for the posts shared by other pet owners.
+   
+   issue tackled: ""
 6. The platform will permit clients to view and connect with other pet owners by accessing their profiles.
+   
+   issue tackled: ""
 
 # Criterion B: Design Overview
 
