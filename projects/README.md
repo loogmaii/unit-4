@@ -49,14 +49,30 @@ I have selected SQLite as the platform's database since it is open source and r
 
 ## Record of tasks
 
-| Task No | Planned Action | Planned Outcome | Design cycle | Time Estimate | Completion date | Criterion |
-|---------|----------------|-----------------|--------------|---------------|-----------------|:---------:|
-|         |                |                 |              |               |                 |           |
-|         |                |                 |              |               |                 |           |
-|         |                |                 |              |               |                 |           |
-|         |                |                 |              |               |                 |           |
-|         |                |                 |              |               |                 |           |
-|         |                |                 |              |               |                 |           |
+| Task No | Planned Action                                        | Planned Outcome                                 | Design cycle | Time Estimate | Completion date | Criterion |   |
+|---------|-------------------------------------------------------|-------------------------------------------------|--------------|---------------|-----------------|:---------:|---|
+| 1       | Plan and write problem definition                     | Clear understanding of the project requirements | Design       | 2 hours       |                 |     -     |   |
+| 2       | Write the design statement for the problem definition | Documented design statement for the project     | Design       | 2 hours       |                 |     -     | - |
+| 3       | Write rationale for proposed solution                 | Clearly documented solution rationale           | Design       | 2 hours       |                 |     -     | - |
+| 4       | Produce 6 success criterias                           | Documented criteria for success                 | Design       | 2 hours       |                 |     -     | - |
+| 5       | Show criteria A to client                             | Client approval of the first success criteria   | Design       | 1 hour        |                 |     A     | A |
+| 6       | Produce system diagram                                | Clear and accurate system diagram               | Design       | 4 hours       |                 |     -     | - |
+| 7       | Produce ER diagram along side an explanation of it    | Clear and accurate ER diagram and explanation   | Design       | 6 hours       |                 |     -     | - |
+| 8       | Create test plans                                     | Comprehensive test plans                        | Design       | 6 hours       |                 |     -     | - |
+| 9       | Design the layout of the website                      | Clear website layout design                     | Design       | 4 hours       |                 |     -     | - |
+| 10      | Create Start page                                     | Functional Start page with no errors            | Development  | 2 hours       |                 |     -     | - |
+| 11      | Code the login and registration system                | Working login and registration system           | Development  | 6 hours       |                 |     -     | - |
+| 12      | Code password encryption                              | Secure password encryption                      | Development  | 4 hours       |                 |     -     | - |
+| 13      | Create table for petowners in database                | Table created for petowners in the database     | Development  | 2 hours       |                 |     -     | - |
+| 14      | Create table for posts in the database                | Table created for posts in the database         | Development  | 2 hours       |                 |     -     | - |
+| 15      | Create table for likes in database                    | Table created for likes in the database         | Development  | 2 hours       |                 |     -     | - |
+| 16      | Code sign up page                                     | Functional sign up page with no errors          | Development  | 4 hours       |                 |     -     | - |
+| 17      | Code the sign up HTML template                        |                                                 |              |               |                 |           |   |
+|         | Code choose animal page                               |                                                 |              |               |                 |           |   |
+|         | Code the choose animal HTML template                  |                                                 |              |               |                 |           |   |
+|         | Code each animal's information input pages            |                                                 |              |               |                 |           |   |
+|         | Code each animal's HTML template                      |                                                 |              |               |                 |           |   |
+|         | Code profile page                                     |                                                 |              |               |                 |           |   |
 
 ## System diagram
 
