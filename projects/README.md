@@ -2,7 +2,7 @@
 
 ![jametlene-reskp-fliwkBbS7oM-unsplash](https://user-images.githubusercontent.com/111941936/236725543-5e293d60-bbcf-4520-8041-1908e56eb502.jpg)
 
-<sub> dogs by Jametlene Reskp
+<sub> Fig.1 dogs by Jametlene Reskp
 
 # Criteria A: Planning
 
@@ -89,11 +89,21 @@ I have selected SQLite as the platform's database since it is open source and r
 | 36      | Evaluation: Film final video                                    | Video demonstration of all success criterias operating and functioning within the website                                   | 1 Hour        | 9th May 2023    | E         |
 | 37      | Implementation: Deliver to client                               | Met Client's need in the website                                                                                            | 15 Minutes    | 9th May 2023    | E         |
 ## System diagram
+ 
+<img width="1022" alt="Screen Shot 2566-05-10 at 11 16 25" src="https://github.com/loogmaii/unit-4/assets/111941936/06f2ef4f-ea77-4efe-a5bf-b431a5f29079">
 
+<sub> Fig. shows the system diagram
+ 
+A visual representation of the system, its parts, and how they relate to one another is provided by the system diagram. This displays the input (keyboard) to the output (various systems used in this project, including the programming language (Python), the computer version and detail (Processor, version, memory), the SQLite database, and the output screen (website interface on the computer screen).
+ 
 ## Flow diagrams
 
 ## UML Diagram
+ 
+<img width="342" alt="Screen Shot 2566-05-10 at 11 53 17" src="https://github.com/loogmaii/unit-4/assets/111941936/d6a58281-bd95-4671-a302-fcdef3420c2c">
 
+<sub> Fig. This UML diagram for the OOP classes illustrates the classes and methods utilized during the development of the website. It showcases the primary parent classes, database. All the classes inherit the methods and attributes of these parent classes, which is demonstrated by the arrows displayed on the diagram. 
+ 
 ## ER diagram
 
 ## Test plan
