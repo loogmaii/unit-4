@@ -8,7 +8,7 @@
 
 ## Problem Definition
  
-Client X is one of the pet owners that is currently facing difficulties in finding a suitable platform to connect their pets with other animal owners. This lack of a centralized platform results in a limited opportunity for pets to socialize, and for owners to share advice, recommendations, stories and even find potential playmates or mates for their pets. Moreover, the current process of finding a community is time-consuming and often frustrating due to the lack of a single platform for pet owners to view posts made by other pet owners, express support for the posts shared by other pet owners, and provide detailed information about their pets to potential playmates or mates.
+Client X is a pet owner who is currently facing difficulties in finding a suitable platform to connect with other pet owners and their pets. The current process of finding a pet community without a centralized platform is time-consuming, often frustrating and results in limited opportunities for owners to share stories, advice and find potential playmates for their pets to socialize with. There is a clear need for a unified platform where users can provide detailed information about their pets to potential playmates, as well as view posts made by other pet owners and express support for such shared posts.
  
 ## Design Statement
 
